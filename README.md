@@ -10,12 +10,8 @@ Reboot your Mac and hold down Command + R to boot into Recovery Mode.
 
 Once in Recovery Mode, open Terminal from the Utilities menu.
 
-Type the following command and press Enter:
+Type the following command and press Enter: csrutil disable
 
-bash
-Копировать
-Редактировать
-csrutil disable
 After the command is executed, restart your Mac to apply the changes.
 
 Install macOS Monterey using OpenCore Legacy Patcher
